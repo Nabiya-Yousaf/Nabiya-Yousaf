@@ -1,59 +1,70 @@
 # 👋 Hi, I’m Nabiya Yousaf  
 
 🎓 MSc Data Science Graduate | University of Essex (2025)  
-🔍 Research Interests: Machine Learning, Natural Language Processing, Big Data, Data Privacy  
-📊 Passionate about applying advanced data analytics and AI for real-world challenges  
+🔍 Aspiring PhD Researcher | Passionate about Machine Learning, NLP, Big Data, and AI for Healthcare  
+📊 Strong interest in applying advanced data-driven methods for solving real-world problems.  
 
 ---
 
-## 🌟 Featured Projects  
+## 🌟 Featured Academic Projects  
 
-### 🔬 MSc Dissertation: GDPR & Cross-Border Data Transfers  
-- Explored the implications of GDPR on multinational corporations.  
-- Focused on **Chapter V, SCCs, BCRs, and post-Schrems II** challenges.  
-- Applied text mining and legal analysis techniques.  
-📂 [View Project](#) *(Add repo link when uploaded)*  
+### 🫀 Heart Disease Prediction using CNNs  
+- **Goal:** Apply Convolutional Neural Networks (CNNs) to predict heart disease based on patient data.  
+- **Dataset:** Kaggle Heart Disease dataset (Cleveland variant).  
+- **Key Methods:** Data preprocessing, feature selection, CNN architecture testing.  
+- **Results:** CNN outperformed traditional ML models with strong predictive accuracy.  
+📂 [View Repository](#)  
 
-### 💬 Sentiment Analysis of Reddit Comments  
-- Dataset: 1M Reddit comments across 40 subreddits (Kaggle).  
-- Applied NLP (BERT, TF-IDF, Word2Vec) and sentiment classification.  
-- Visualised trends in public opinion across different topics.  
-📂 [View Project](#)  
+---
 
-### 🏡 Predicting Real Estate Prices with Machine Learning  
-- Dataset: *House Prices – Advanced Regression Techniques* (Kaggle).  
-- Built regression and ensemble models (XGBoost, Random Forest, Linear Regression).  
-- Achieved high accuracy with feature engineering and model stacking.  
-📂 [View Project](#)  
+### 🧠 Stroke Prediction with Machine Learning  
+- **Goal:** Compare Logistic Regression vs Support Vector Machine (SVM) for predicting stroke risk.  
+- **Dataset:** Healthcare Stroke Prediction Dataset (Kaggle).  
+- **Key Methods:** EDA, missing value imputation, feature scaling, model comparison.  
+- **Results:** SVM achieved 85% testing accuracy, outperforming Logistic Regression (70%).  
+📂 [View Repository](#)  
 
-### ⚡ PCB Defects Detection (Deep Learning Project)  
-- Built a **ResNet50 CNN** model for defect detection in PCB images.  
-- Categories: Missing hole, Mouse bite, Short, Spur, Spurious copper.  
-- Achieved >70% accuracy through image augmentation and transfer learning.  
-📂 [View Project](#)  
+---
+
+### 💬 Toxic Comment Classification (Text Mining)  
+- **Goal:** Detect toxic comments using text classification techniques.  
+- **Dataset:** Comment dataset with train/valid/test splits.  
+- **Key Methods:** Preprocessing (tokenization, stopword removal, vectorization), Naive Bayes, SVM.  
+- **Results:** SVM achieved F1 score of 0.89, Naive Bayes achieved 0.85.  
+📂 [View Repository](#)  
+
+---
+
+## 📂 More Projects  
+*(Full repositories available in my GitHub Repos tab)*  
+
+- 📊 **Sentiment Analysis of Reddit Comments** – NLP analysis of 1M+ comments across 40 subreddits.  
+- 🏡 **House Price Prediction with ML** – Regression and ensemble learning on Kaggle housing dataset.  
+- ⚡ **PCB Defects Detection (Deep Learning)** – ResNet50 CNN for defect detection in manufacturing.  
+- 🛡 **Consumer Journey Analysis (Boots & Argos)** – Survey + data-driven analysis of customer journeys.  
+- ☁️ **Cloud Computing Coursework** – AWS & Azure-based projects for scalable data pipelines.  
 
 ---
 
 ## 💻 Technical Skills  
-- **Languages & Tools:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch), R, SQL, MATLAB  
-- **Data Science Tools:** Jupyter, Google Colab, Tableau, Power BI  
-- **Databases & Cloud:** MySQL, MongoDB, AWS, Azure, Google Cloud  
+- **Programming & Tools:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch), R, SQL  
+- **Data Science Tools:** Jupyter, Colab, Tableau, Power BI  
+- **Databases & Cloud:** MySQL, MongoDB, AWS, Azure, GCP  
 - **Core Competencies:** Data Cleaning, Feature Engineering, Model Optimisation, Data Visualisation, Research Writing  
 
 ---
 
 ## 🏆 Certifications & Achievements  
 - AWS Partner Training (Cloud Computing)  
-- CPD Accredited Courses in Cybersecurity & Data Analytics  
-- [Add Coursera/edX or other certifications if you have]  
+- CPD Accredited Courses (Cybersecurity & Data Analytics)  
 
 ---
 
 ## 📫 Connect With Me  
-- ✉️ Email: [your.email@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](#)  
-- 📂 Portfolio/GitHub: [github.com/yourusername](#)  
+- ✉️ Email: [nabiyayousaf1@gmail.com]  
+- 💼 LinkedIn: [[linkedin.com/in/your-profile](https://www.linkedin.com/in/nabiya-yousaf-61b79523a)](#)  
+- 📂 GitHub: [github.com/nabiya-yousaf](#)  
 
 ---
 
-⭐️ *Currently seeking PhD opportunities in Data Science, Artificial Intelligence, and NLP. Open to research collaborations and academic projects.*  
+⭐️ *Currently seeking PhD opportunities in Data Science, Artificial Intelligence, and NLP. Open to collaborations and research projects.*  
